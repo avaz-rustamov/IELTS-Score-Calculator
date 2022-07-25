@@ -1,4 +1,10 @@
 body {
+  font-family: "Rubik", "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #fff;
   content: "";
   background-image: url(../img/ielts-img.jpg);
   background-size: cover;
