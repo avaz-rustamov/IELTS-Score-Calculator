@@ -11,3 +11,17 @@ body {
   background-repeat: no-repeat;
   display: block;
 }
+.main-heading__ielts {
+  color: #e51837;
+  text-transform: uppercase;
+}
+footer {
+  margin-top: 100%;
+}
+.author-text_link {
+  color: #fff;
+  text-decoration: none;
+}
+.author-text_link:hover {
+  color: #eb4747;
+}
