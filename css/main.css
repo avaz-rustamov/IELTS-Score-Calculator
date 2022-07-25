@@ -1,0 +1,7 @@
+body {
+  content: "";
+  background-image: url(../img/ielts-img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+}
